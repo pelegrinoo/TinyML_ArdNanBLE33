@@ -51,9 +51,10 @@ Uma solução para detectar gestos utilizando Inteligência Artificial no Arduin
 ---
 
 ### **📂 Estrutura do Repositório**  
-- **/data**: Scripts para coleta e normalização de dados.  
-- **/model**: Código do modelo em Python e arquivo `.tflite`.  
-- **/arduino**: Código completo em C++ com o modelo integrado.  
+- **/Código_Captura**: script para coleta dos dados com o `.ino` de coleta;
+- **/Código_Classificador**: script e modelos `.ino` e `.h` usados para a parte de testes;  
+- **/Arduino_TinyML**: códigos e algoritmos em Python;  
+- **/README**: parte explcitativa do projeto.  
 
 ---
 
